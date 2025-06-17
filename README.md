@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Movses Muradyan</h1>
-<h3 align="center">Cool dude doing DevOps magic ☁️🛠️ — surviving on coffee, logs, and the occasional k8s meltdown ☕🐳</h3>
+<h3 align="center">Cool dude doing DevOps magic ☁️ — surviving on coffee, logs, and the occasional k8s meltdown ☕🐳</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
